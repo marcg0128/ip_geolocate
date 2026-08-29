@@ -4,5 +4,3 @@ This is a tool to get a location and more informationfrom an IP. The location is
 
 **Install:**
 `py -m pip install -r requirements.txt`
-
-*This tool is not illigal*
